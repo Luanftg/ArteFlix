@@ -1,4 +1,5 @@
 # Desafio de projeto HTML Developer :computer:
+
 ---
 
 ## Desafio
@@ -11,11 +12,15 @@ Enunciado:
 ---
 
 ## Solução
+
 - [ ] desenvolver logo NETFLIX com css
+
 ---
+
 ## Projeto Finalizado
 
 ---
+
 ### REFERÊNCIAS
 
 `box-sizing: border-box`
